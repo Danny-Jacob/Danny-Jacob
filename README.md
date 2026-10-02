@@ -12,4 +12,9 @@ Performance-driven **Software Developer** with **2+ years of experience** engine
 ![](https://streak-stats.demolab.com/?user=Danny-Jacob&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Danny-Jacob&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+🧩 LeetCode Stats
+<p align="center"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark" alt="LeetCode Stats" /> </p>
+📅 LeetCode Activity
+<p align="center"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" alt="LeetCode Activity Calendar" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
